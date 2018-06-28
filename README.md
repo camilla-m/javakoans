@@ -1,4 +1,4 @@
-## Quick Start
+## Quick Start 
 * Download and unarchive the contents of the most recent java-koans in development from:
 https://github.com/matyb/java-koans/archive/master.zip
 * Open a console (terminal) and cd to the directory you unarchived:
@@ -9,3 +9,5 @@ https://github.com/matyb/java-koans/archive/master.zip
     * Eclipse  ```./gradlew eclipse (WINDOWS: gradlew.bat eclipse)```
 * Back to the console and run ```./run.sh```  (WINDOWS: ```run.bat```)
 * Follow the instructions and start hacking
+
+## Java Koans Solutions
